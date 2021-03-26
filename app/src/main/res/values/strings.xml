@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Multiple Recycler</string>
+    <string name="textview">Hello Everyone , This is Krishna</string>
+    <string name="text">Hello Everyone , This is Krishna</string>
+    <string name="image_text">This is Krishna a Android Trainee</string>
+</resources>
